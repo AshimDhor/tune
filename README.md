@@ -31,12 +31,8 @@ Official implementation of **TUNE++** (Topology and UNcertainty-aware Efficient 
 | | **TUNE++** | **89.3** | **0.34** | **0.042** | **0.81** |
 | **ACDC** | UNETR++ | 92.4 | 1.38 | - | - |
 | | **TUNE++** | **93.8** | **0.42** | **0.038** | **0.81** |
-| **BraTS** | UNETR++ | 84.0 | 2.19 | - | - |
-| | **TUNE++** | **85.9** | **0.67** | **0.045** | **0.76** |
 | **BTCV** | UNETR++ | 82.3 | 2.12 | - | - |
 | | **TUNE++** | **84.8** | **1.88** | **0.041** | **0.79** |
-| **Lung** | UNETR++ | 77.1 | 1.67 | - | - |
-| | **TUNE++** | **80.7** | **1.20** | **0.046** | **0.77** |
 
 ### Key Improvements
 - **+2.3% mean DSC** improvement across all datasets
