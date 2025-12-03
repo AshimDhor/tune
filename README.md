@@ -39,10 +39,10 @@ Official implementation of **TUNE++** (Topology and UNcertainty-aware Efficient 
 | | **TUNE++** | **80.7** | **1.20** | **0.046** | **0.77** |
 
 ### Key Improvements
-- 📈 **+2.3% mean DSC** improvement across all datasets
-- 🔧 **72% Betti error reduction** (1.94 → 0.54 average)
-- 📊 **Superior calibration** (ECE 0.043 vs. 0.099 for baselines)
-- 🎯 **High TAUS correlation** (r=0.78) between uncertainty and topological complexity
+- **+2.3% mean DSC** improvement across all datasets
+- **72% Betti error reduction** (1.94 → 0.54 average)
+- **Superior calibration** (ECE 0.043 vs. 0.099 for baselines)
+- **High TAUS correlation** (r=0.78) between uncertainty and topological complexity
 
 ---
 
@@ -82,7 +82,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📁 Datasets
+## Datasets
 
 We evaluate TUNE++ on five public benchmarks:
 
@@ -91,13 +91,9 @@ We evaluate TUNE++ on five public benchmarks:
 - **BraTS Brain Tumor** ([Link](https://www.med.upenn.edu/cbica/brats2020/))
 - **BTCV Multi-Organ** ([Link](https://www.synapse.org/#!Synapse:syn3193805/wiki/217752))
 - **Decathlon-Lung** ([Link](http://medicaldecathlon.com/))
-
----
-
-## 📄 License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 **Status:** 🚧 Code release in progress.
+---
