@@ -13,7 +13,7 @@ Official implementation of **TUNE++** (Topology and UNcertainty-aware Efficient 
 - **Clinically reliable** predictions with anatomically plausible topology
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ![TUNE++ Architecture](assets/architecture.png)
 
@@ -45,8 +45,6 @@ Official implementation of **TUNE++** (Topology and UNcertainty-aware Efficient 
 - **High TAUS correlation** (r=0.78) between uncertainty and topological complexity
 
 ---
-
-## 🚀 Getting Started
 
 ### Prerequisites
 ```bash
@@ -95,5 +93,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Status:** 🚧 Code release in progress.
+**Status:** Code release in progress.
 ---
