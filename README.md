@@ -15,7 +15,7 @@ Official implementation of **TUNE++** (Topology and UNcertainty-aware Efficient 
 
 ## Architecture
 
-![TUNE++ Architecture](assets/architecture.png)
+![TUNE++ Architecture](media/architecture.png)
 
 **TUPA Block:** Four parallel branches (spatial, channel, topology, uncertainty) with uncertainty-guided adaptive fusion.
 
