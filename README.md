@@ -82,9 +82,7 @@ We evaluate TUNE++ on five public benchmarks:
 
 - **Synapse Multi-Organ** ([Link](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789))
 - **ACDC Cardiac** ([Link](https://www.creatis.insa-lyon.fr/Challenge/acdc/))
-- **BraTS Brain Tumor** ([Link](https://www.med.upenn.edu/cbica/brats2020/))
 - **BTCV Multi-Organ** ([Link](https://www.synapse.org/#!Synapse:syn3193805/wiki/217752))
-- **Decathlon-Lung** ([Link](http://medicaldecathlon.com/))
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
