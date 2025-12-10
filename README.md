@@ -50,20 +50,6 @@ MONAI >= 1.3.0
 GUDHI >= 3.7.1 (for persistent homology)
 ```
 
-### Installation
-```bash
-# Clone repository
-git clone https://github.com/yourusername/TUNE-plusplus.git
-cd TUNE-plusplus
-
-# Create conda environment
-conda create -n tune python=3.8
-conda activate tune
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
 ### Training
 ```bash
 # Coming soon
